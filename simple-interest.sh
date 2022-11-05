@@ -5,9 +5,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Gautam Sunuwar
    # Additional Authors:
-   # <your GitHub username>
+   # <sunofwar2323>
 
    # Input:
    # p, principal amount
